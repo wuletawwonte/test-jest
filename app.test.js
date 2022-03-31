@@ -4,3 +4,7 @@ const stringLength = require('./app');
 test('Takes the string "Wuletaw" and returns 7', () => {
   expect(stringLength('Wuletaw')).toBe(7);
 })
+
+test('Takes a string longer than 10 or shorter than 1 and throws error', () => {
+  expect(() => stringLength('Wuletawwonte')).toThrow();
+})

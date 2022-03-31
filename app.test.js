@@ -1,6 +1,6 @@
 const { expect } = require('@jest/globals');
-const sum = require('./app');
+const stringLength = require('./app');
 
-test('Add 1 and 2 to equal 3', () => {
-  expect(sum(1, 2)).toBe(3);
+test('Takes the string "Wuletaw" and returns 7', () => {
+  expect(stringLength('Wuletaw')).toBe(7);
 })

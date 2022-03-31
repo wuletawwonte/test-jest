@@ -1,5 +1,8 @@
-function sum(a, b) {
-  return a+b;
-}
 
-module.exports = sum;
+const stringLength = (inputText) => {
+  return inputText.length;
+}
+ 
+console.log(stringLength("Wuletaw"));
+
+module.exports = stringLength;

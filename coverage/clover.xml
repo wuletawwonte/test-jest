@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1648822865418" clover="3.2.0">
+  <project timestamp="1648822865418" name="All files">
+    <metrics statements="22" coveredstatements="22" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="33" coveredelements="33" complexity="0" loc="22" ncloc="22" packages="1" files="3" classes="3"/>
+    <file name="app.js" path="/home/wuletaw/dev/microverse/test-jest/app.js">
+      <metrics statements="10" coveredstatements="10" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="calculator.js" path="/home/wuletaw/dev/microverse/test-jest/calculator.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+      <line num="2" count="13" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="6" count="13" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="10" count="13" type="stmt"/>
+      <line num="11" count="4" type="stmt"/>
+      <line num="14" count="13" type="stmt"/>
+      <line num="15" count="3" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+    <file name="capitalize.js" path="/home/wuletaw/dev/microverse/test-jest/capitalize.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
